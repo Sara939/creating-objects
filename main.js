@@ -53,3 +53,83 @@
 
 // var newkey= prompt("enter a key");
 // document.write(kinergarden[newkey]);
+
+// var  classroom={};
+// classroom.classnum= +prompt("ener class num");
+// classroom.studentsnumber= +prompt("enter num of sudent");
+// classroom.agenum= +prompt("enter your age");
+
+// console.log(classroom);
+
+// var teacher={};
+// mykey= prompt("choose a key");
+// myname= prompt("write your name");
+// teacher[mykey]=[myname];
+// console.log(teacher);
+
+// var manager= {};////////////////////////////////////////////
+// // ln= prompt("lastname");
+// // ag= prompt("age");
+// // pc= prompt("paycheck");
+// // manager[prompt("enter a key")]= prompt("first name");
+// // manager[prompt("enter a key")]= ln;
+// // manager[prompt("enter a key")]= ag;
+// // manager[prompt("enter a key")]= pc;
+
+// console.log(manager);
+
+// var user = {};
+// for (i = 0; i < 4; i++) {
+//     choosenkey = prompt("key");
+//     choosenvalue = prompt("value");
+//     user[choosenkey] = choosenvalue;
+//     document.write("<div>" + user[choosenkey] + "</div>");
+// }
+
+
+// var suzuki= {
+//     var carsarray= [];
+//     for(i=0; i<4; i++){
+//     company: prompt("your car company"),
+//     color: prompt("cars color"),
+//     smk: prompt("smk"),
+//     year: prompt("year")  
+//     document.write("<div>" + suzuki.company + "</div>");
+//    }
+//    carsarray.push(suzuki);
+// }
+//     console.log(carsarray);
+
+// 17://///////////////////////
+
+// function cats() {
+//     var allcats = [];
+//     for (i = 0; i < 2; i++) {
+//         var onecat = {
+//             name: prompt("name"),
+//             year: +prompt("year"),
+//             somekind: prompt("kind"),
+//             wight: +prompt("wight")
+//         }
+//         allcats.push(onecat);
+//         document.write("<h1>" + onecat.name + "</h1>" + "<h1>" + onecat.year + "</h1>" + "<h1>" + onecat.somekind + "</h1>")
+//     }
+//     console.log(allcats);
+
+// }
+// cats();
+
+// 18:
+
+
+
+
+
+
+
+
+
+
+
+
+
