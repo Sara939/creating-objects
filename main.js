@@ -121,6 +121,145 @@
 
 // 18:
 
+// var usernum=+prompt("num");
+// function usernumofob(){
+//     for(i=0; i<usernum; i++){
+//     var dogs={
+//         name:prompt("name"),
+//         age:+prompt("age"),
+//         kind:prompt("kind of dog"),
+//         ownername:prompt("owners name")
+//     }
+//     document.write("<p>"+dogs.name+"</p>"+"<p>"+dogs.age+"</p>"+"<p>"+dogs.kind+"</p>"+"<p>"+dogs.ownername+"</p>")
+//     }
+// }
+// usernumofob();
+
+// 19:
+
+// function numfromuser(){
+//     var numberoftimes= +prompt("num");
+//     for(i=0; i<numberoftimes; i++){
+//     var insect={
+//         name:prompt("name"),
+//         scientificName:prompt("scientific Name"),
+//         wingsNum:window.confirm("does he has wings?"),
+//         // wingsNum:+prompt("wings Num"),
+//         legsNum:+prompt("legsNum")
+//     }
+//     if(insect.wingsNum == true){
+//     document.write("<h3>"+insect.name+"</h3>"+"<h3>"+insect.scientificName+"</h3>"+"<h3>"+insect.legsNum+"</h3>")
+//     }
+//     }
+
+// }
+// numfromuser();
+
+// 20:
+// function numuser(){
+//     var numberoftimes= +prompt("num");
+//     for(i=0; i<numberoftimes; i++){
+//     var child={
+//         fullname:prompt(" full name"),
+//         age:+prompt("age"),
+//         inKindergarden:window.confirm("confirm if u go to kindergarden?"),
+//     }
+//     if(child.age > 4){
+//     document.write("<p>"+child.fullname+"</p>"+"<p>"+child.age+"</p>"+"<p>"+child.inKindergarden+"</p>")
+//     }
+//     }
+
+// }
+// numuser();
+
+// 21:
+// function compfromuser(){
+//     var numberoftimes= +prompt("num");
+//     for(i=0; i<numberoftimes; i++){
+//     var computer={
+//         brand:prompt("brand name"),
+//         type:prompt("type"),
+//         wigth:+prompt("wigth in kg"),
+//         instock:window.confirm("confirm if in stock")
+//     }
+//     if(computer.instock == true && computer.wigth > 2){
+//     document.write("<p>"+computer.brand+"</p>"+"<p>"+computer.type+"</p>"+"<p>"+computer.wigth+"</p>")
+//     }
+//     }
+
+// }
+// compfromuser();
+
+// 22:
+// function teachersfun(){
+//     var numberoftimes= +prompt("num");
+//     for(i=0; i<numberoftimes; i++){
+//     var teacher={
+//         fulname:prompt("full name"),
+//         salary:prompt("salary per hour"),
+//         email:prompt("email"),
+//         year:+prompt("year in 4 digits")
+//     }
+//     if(teacher.salary > 100 || teacher.year < 1990){
+//     document.write("<span>"+teacher.fulname+"</span>"+" "+"<span>"+teacher.salary+"</span>"+" "+"<span>"+teacher.email+"</span>"+" "+"<span>"+teacher.year+"</span>"+" ")
+//     }
+//     }
+
+// }
+// teachersfun();
+
+// 23:
+// function furnitureFun(num){
+//     for(i=0; i<num; i++){
+//     var furniture= {
+//         name: prompt("name"),
+//         brand:prompt("brand"),
+//         shopstobuy:prompt("shops to buy"),
+//         price:+prompt("price")
+//     }
+//     document.write("<div>"+furniture.name+"</div>"+ "<div>"+furniture.shopstobuy +"</div>")
+//     }
+// }
+// furnitureFun(2);
+
+// 24:
+
+// function apartmentsFun(num){
+//     for(i=0; i<num; i++){
+//     var apartment= {
+//         addras: prompt("addras"),
+//         rentPrice:+prompt("renting price"),
+//         buyPrice:+prompt("buying price"),
+//         buyers:("potantioal buyers"),
+//         tivoch:window.confirm("tivoch?")
+//     }
+//     if(apartment.tivoch == false)
+//     document.write("<div>"+apartment.addras+"</div>"+ "<div>"+apartment.buyers +"</div>")
+//     }
+// }
+// apartmentsFun(3);
+
+// 25:
+// function countries(){
+//     var numberoftimes= +prompt("num");
+//     for(i=0; i<numberoftimes; i++){
+//     var country= {
+//         name: prompt("name"),
+//         citizens:+prompt("num of citizens"),
+//         cities:prompt("cities"),
+//         beithabad :window.confirm("do u have beit habad?")
+//     }
+//     if(country.beithabad == true)
+//     document.write("<div>"+country.name+"</div>"+ "<div>"+country.cities +"</div>")
+//     }
+// }
+// countries();
+
+// 26:
+
+
+
+
 
 
 
