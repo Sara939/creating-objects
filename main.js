@@ -249,13 +249,37 @@
 //         cities:prompt("cities"),
 //         beithabad :window.confirm("do u have beit habad?")
 //     }
-//     if(country.beithabad == true)
+//     if(country.beithabad == true){
 //     document.write("<div>"+country.name+"</div>"+ "<div>"+country.cities +"</div>")
 //     }
+// }
+
 // }
 // countries();
 
 // 26:
+function moviesfun(){
+    var numberoftimes= +prompt("num");
+    for(i=0; i<numberoftimes; i++){
+    var movie= {
+        name: prompt("name"),
+        viewsnum:+prompt("viewsnum"),
+        year:+prompt("year"),
+        picture: document.createElement("img"),
+        mypic.src= prompt("link")
+    }
+    document.write("<div>"+movie.name+"</div>"+ "<div>"+movie.viewsnum+"</div>"+ "<div>"+movie.year+"</div>"+"<div>"+movie.picture+"</div>")
+    
+}
+}
+
+function addpic(){
+    var picture= ""
+}
+
+moviesfun();
+
+
 
 
 
