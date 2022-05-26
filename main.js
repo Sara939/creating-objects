@@ -231,9 +231,9 @@
 //         rentPrice:+prompt("renting price"),
 //         buyPrice:+prompt("buying price"),
 //         buyers:("potantioal buyers"),
-//         tivoch:window.confirm("tivoch?")
+//         istivoch:window.confirm("tivoch?")
 //     }
-//     if(apartment.tivoch == false)
+//     if(apartment.istivoch == false)
 //     document.write("<div>"+apartment.addras+"</div>"+ "<div>"+apartment.buyers +"</div>")
 //     }
 // }
@@ -247,9 +247,9 @@
 //         name: prompt("name"),
 //         citizens:+prompt("num of citizens"),
 //         cities:prompt("cities"),
-//         beithabad :window.confirm("do u have beit habad?")
+//         isbeithabad :window.confirm("do u have beit habad?")
 //     }
-//     if(country.beithabad == true){
+//     if(country.isbeithabad == true){
 //     document.write("<div>"+country.name+"</div>"+ "<div>"+country.cities +"</div>")
 //     }
 // }
