@@ -233,7 +233,7 @@
 //         buyers:("potantioal buyers"),
 //         istivoch:window.confirm("tivoch?")
 //     }
-//     if(apartment.istivoch == false)
+//     if(apartment.istivoch == false (=!apartment.istivoch) ניתן לרשום גם כך)
 //     document.write("<div>"+apartment.addras+"</div>"+ "<div>"+apartment.buyers +"</div>")
 //     }
 // }
