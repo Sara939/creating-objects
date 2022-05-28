@@ -230,11 +230,13 @@
 //         addras: prompt("addras"),
 //         rentPrice:+prompt("renting price"),
 //         buyPrice:+prompt("buying price"),
-//         buyers:("potantioal buyers"),
+//         buyers:[prompt("1 buyers name"), prompt("2 buyers name")],
+            // עוד דרך לעשות:
+            // לולאה של prompt לkey buyers מתחת לאובייקט
 //         istivoch:window.confirm("tivoch?")
 //     }
 //     if(apartment.istivoch == false (=!apartment.istivoch) ניתן לרשום גם כך)
-//     document.write("<div>"+apartment.addras+"</div>"+ "<div>"+apartment.buyers +"</div>")
+//     document.write("<div>"+apartment.addras+"</div>"+ "<div>"+apartment.buyers[i] +"</div>")
 //     }
 // }
 // apartmentsFun(3);
